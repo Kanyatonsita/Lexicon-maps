@@ -1,0 +1,17 @@
+# Övning 2 - Lexicon
+Skapa en dictionary som har svenska ord som nyckel och engelska ord som värde
+
+| key         |     value     |
+|-------------|---------------|
+| hej         | hello         |
+| middag      | dinner        |
+| fantastiskt | fantastic     |
+
+## Level up
+Gör så att dictionary:n även visar synonymer i översättningen genom att använda en lista av synonymer som value.
+
+| key         |     value          |
+|-------------|--------------------|
+| hej         | [hey, hello, hi]   |
+| middag      | [dinner, supper]   |
+| fantastiskt | [fantastic, great] |
